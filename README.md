@@ -34,7 +34,9 @@
 3.2.1.1 [Требования к удобству использования](#requirements_for_ease_of_use)  
 3.2.2 [Внешние интерфейсы](#external_interfaces)  
 3.2.3 [Ограничения](#restrictions)  
-3.2.4 [Ограничения](#restrictions)  
+3.2.4 [Ограничения](#restrictions) 
+3.2.2 [Внешние интерфейсы](#external_interfaces)  
+3.2.3 [Ограничения](#restrictions)  
 
 <a name="intro"/>
 
