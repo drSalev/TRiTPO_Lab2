@@ -86,15 +86,31 @@
 <details>
 <summary>Главный экран.</summary>
 
-![Главный экран](https://github.com/drSalev/Screen/blob/main/Book_create.jpg)
+![Главный экран](https://github.com/drSalev/Screen/blob/main/Main.jpg)
 
 </details>
 
-При нажатии на тип товара в верхней части экрана, список товаров должен быть отфильрован в соответствии с выбранным типом и обновлён.
+При нажатии на иконку сортировки в верхней части экрана открывается меню, где присутствует возможность отфильтровать или отсортировать книги.
   <details>
-<summary>Отфильтрованный главный экран.</summary>
+<summary>Меню сортировок.</summary>
 
-![Отфильтрованный главный экран](https://user-images.githubusercontent.com/59147112/194344130-65d6a013-da06-41a9-839c-f890e8733110.jpg) 
+![Меню сортировок](https://github.com/drSalev/Screen/blob/main/Sorting.jpg) 
+
+</details>
+
+При нажатии на "+" в верхней части экрана открывается меню добавления новой книги.
+  <details>
+<summary>Добавление новой книги.</summary>
+
+![Меню добавления новой книги](https://github.com/drSalev/Screen/blob/main/Book_create.jpg) 
+
+</details>
+
+При нажатии на иконку шестеренки в верхней части экрана открывается меню для изменения оформления.
+  <details>
+<summary>Темная тема.</summary>
+
+![Меню добавления новой книги](https://github.com/drSalev/Screen/blob/main/dark.jpg) 
 
 </details>
 
