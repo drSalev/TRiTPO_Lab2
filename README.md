@@ -141,7 +141,7 @@
  <details>
 <summary>Меню описания записи.  </summary>
 
-![Меню описания записи](https://github.com/drSalev/Screen/blob/main/Notation_description.jpg)
+![Меню описания записи](https://github.com/drSalev/Screen/blob/main/Notation_decription.jpg)
 
 </details>
 
