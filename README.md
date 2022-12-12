@@ -86,7 +86,7 @@
 <details>
 <summary>Главный экран.</summary>
 
-![Главный экран](https://user-images.githubusercontent.com/59147112/194343860-aae1686c-90b3-4594-849a-e63ac7926d14.jpg)
+![Главный экран]([https://user-images.githubusercontent.com/59147112/194343860-aae1686c-90b3-4594-849a-e63ac7926d14.jpg](https://sun9-19.userapi.com/impg/yfW9AYGvl7GtS0eFchiWRxjsvrymQ1jwwSdVeg/gZyG-ZOaUzk.jpg?size=720x1560&quality=95&sign=6d32de111a287c4e9992ecf9f6a4072d&type=album))
 
 </details>
 
