@@ -110,39 +110,38 @@
   <details>
 <summary>Темная тема.</summary>
 
-![Меню добавления новой книги](https://github.com/drSalev/Screen/blob/main/dark.jpg) 
+![Темная тема](https://github.com/drSalev/Screen/blob/main/dark.jpg) 
 
 </details>
 
-При нажатии на карточку товара, пользователь попадает на экран с подробной информацией о нём. На этом фрагменте пользователь может выбрать количество товара кнопками "+" и "-", и добавить в корзину, нажав кнопку "В корзину".
+При нажатии на книгу открывается меню с описанием и кнопками дальнейшего взаимодействия.
  <details>
-<summary>Экран подробнее.  </summary>
+<summary>Меню описания книги.  </summary>
 
-![Экран подробнее](https://user-images.githubusercontent.com/59147112/194345614-17a10a7d-0fea-420a-b863-0ab15aa74af0.jpg)
-
-</details>
-
-В нижней части главного экрана расположены две кнопки "Меню" и "Корзина". По нажатии на кнопку "Корзина" открывается экран корзины, на котором пользователь может просмотреть состав своего заказа, и сделать заказ. 
-<details>
-<summary>Экран корзины.  </summary>
-
-![Экран корзины](https://user-images.githubusercontent.com/59147112/194346562-76e6dad5-2e83-406f-a199-b2443bd121a8.jpg)
+![Меню описания книги](https://github.com/drSalev/Screen/blob/main/Book_description.jpg)
 
 </details>
 
-Если корзина пуста, то выводится заглушка.
-<details>
-<summary>Пустой экран корзины. </summary>
+ <details>
+<summary>Меню описания книги с записью о читателе.  </summary>
 
-![Пустой экран корзины](https://user-images.githubusercontent.com/59147112/194347372-14ce3d30-ae26-47e2-afbe-5d57ba21961f.jpg)  
+![Меню описания книги с записью о читателе](https://github.com/drSalev/Screen/blob/main/Book_description_with_notation.jpg)
 
 </details>
 
-В случае отсутствия интернета, отображается экран ошибки.
-<details>
-<summary>Экран ошибки. </summary>
+При нажатии на кнопку "Изменить" открывается меню, где можно подкорректировать существующую информацию о книге.
+ <details>
+<summary>Меню изменения книги.  </summary>
 
-![Экран ошибки](https://user-images.githubusercontent.com/59147112/194348319-e56c3189-f5cf-46ab-8312-93481823cd4b.jpg)
+![Меню описания книги](https://github.com/drSalev/Screen/blob/main/Book_edit.jpg)
+
+</details>
+
+При нажатии на читателя открывается меню с описанием и кнопками дальнейшего взаимодействия.
+ <details>
+<summary>Меню описания записи.  </summary>
+
+![Меню описания записи](https://github.com/drSalev/Screen/blob/main/Notation_description.jpg)
 
 </details>
 
