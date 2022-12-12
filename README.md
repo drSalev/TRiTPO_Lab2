@@ -26,14 +26,7 @@
 3.1.1.3 [Просмотр информации об отдельной позиции](#view_information)  
 3.1.1.4 [Добавление новой книги](#add_book)  
 3.1.1.5 [Изменение информации и удаление книги](#update_and_delete_book)  
-3.1.1.6 [Взаимодействие с читателями](#write_notice_and_delete_people) 
-3.1.1.7 [Темная тема](#dark_theme) 
-3.1.2 [Ограничения и исключения](#restrictions_and_exclusions)  
-3.2 [Нефункциональные требования](#non-functional_requirements)  
-3.2.1 [Атрибуты качества](#quality_attributes)  
-3.2.1.1 [Требования к удобству использования](#requirements_for_ease_of_use)  
-3.2.2 [Внешние интерфейсы](#external_interfaces)  
-3.2.3 [Ограничения](#restrictions)  
+
 
 <a name="intro"/>
 
